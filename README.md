@@ -20,12 +20,32 @@ Buenas programador/a, bienvenido a mi perfil. Soy estudiante de DAM en La Salle 
 
 ## Hobbies & More
 - 💻 Lenguajes principales: Java, Html5 & CSS3
-- 🤼‍♂️ In free my time I like to practice mixed martial arts
+- 🤼‍♂️ In my free time I like to practice mixed martial arts
 - 🏫 Currently studying at La Salle Grácia
-  
-## 📫 ¿Cómo contactarme?
+
+## 📈 Gràfic de Contribucions
+
+Aquí te muestro todas mis contribuciones a proyectos relevantes 🤓
+
+![Gràfic de Contribucions](https://github.com/USUARIO/USUARIO/blob/main/github-contributions.svg)
+
+## 📊 Gràfic d'Activitat
+
+Aquí te dejo ver un poco más sobre mi nivel en la plataforma de Github 👨‍💻
+
+![Gràfic d'Activitat](https://github-readme-stats.vercel.app/api?username=USUARIO&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
+
+## 🎯 Barra de Perfil Actualitzada
+
+Por último te muestro el progreso de mi proyecto personal en Python: Plinko Bet 🎰
+
+![Barra de Perfil](https://github-readme-streak-stats.herokuapp.com/?user=USUARIO&theme=radical)
+
+
+## 📫 No dudes ponerte en contacto 👍🏻 
 
 - Correo: [dean.martin@gracia.lasalle.cat](mailto:tuemail@example.com)
 - Discord: [deanfrx0577](https://discord.com/users/tu_id)
+
 
 --------------
