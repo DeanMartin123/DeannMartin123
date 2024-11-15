@@ -2,7 +2,7 @@
 - - - - - - - - - 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=GRACIAS+POR+ENTRAR+EN+MÍ+READ.ME;DESCUBRE+MÁS+SOBRE+MÍ)](https://git.io/typing-svg)
 
-Buenas programador/a, bienvenido a mi perfil. Soy estudiante de DAM en La Salle Grácia. En mi tiempo libre me gusta hacer deporte y aprender más sobre el mundo de la programación. I'd love to connect!
+Buenas programador/a, bienvenido a mi perfil. Soy estudiante de DAM en La Salle Grácia. I'd love to connect!
 
 ## 🖥️ En constante aprendizaje de estos lenguajes 
 
@@ -18,7 +18,11 @@ Buenas programador/a, bienvenido a mi perfil. Soy estudiante de DAM en La Salle 
 
 ## 🎯 Proyectos y más...
 
-
+## Hobbies & More
+- 💻 Lenguajes principales: Java, Html5 & CSS3
+- 🤼‍♂️ In free my time I like to practice mixed martial arts
+- 🏫 Currently studying at La Salle Grácia
+  
 ## 📫 ¿Cómo contactarme?
 
 - Correo: [dean.martin@gracia.lasalle.cat](mailto:tuemail@example.com)
